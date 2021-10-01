@@ -5,6 +5,7 @@ public class EjemploRAMAS {
 		System.out.println("CAMBIO");
 		System.out.println("Prueba 1 de repositorio ");
 		System.out.println("Saludos de tiomao");
+		System.out.println("Daniel hace un cambio");
 	}
 
 }
