@@ -12,9 +12,10 @@ public class EjemploRAMAS {
 		System.out.println("Prueba Ruben");
 		System.out.println("Saludos de tiomao");
 		System.out.println("Daniel hace un cambio");
+
+		System.out.println("Segundo saludo de tiomao");
 		//  no hay manera
 		// Alvaro prueba esto
-
-	}
+  }
 
 }
